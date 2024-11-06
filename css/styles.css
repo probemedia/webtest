@@ -1,0 +1,20 @@
+/* Basic styling for the sections */
+header {
+    background-image: url('images/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+#about img {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+footer {
+    font-size: 0.9em;
+}
